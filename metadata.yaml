@@ -1,0 +1,35 @@
+_repo: A-good-old-scout_74698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Solomons, Theodore
+    aliases:
+    - Solomons, Theodore Seixas
+    - Solomons, Theodore S. (Theodore Seixas)
+    birthdate: 1870
+    deathdate: 1947
+    gutenberg_agent_id: '57605'
+    url: http://www.gutenberg.org/2009/agents/57605
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_Solomons
+description: Produced from the the September 7, 1927 issue of The Popular Magazine.
+gutenberg_issued: '2024-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74698'
+language: en
+pgterms:marc905: 20241027005425solomons
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Gold miners -- Fiction'
+- !lcsh 'Alaska -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A good old scout
+url: http://www.gutenberg.org/ebooks/74698
