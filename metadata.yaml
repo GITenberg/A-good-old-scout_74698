@@ -1,5 +1,8 @@
 _repo: A-good-old-scout_74698
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74698-h/images/cover.jpg
 creator:
   author:
     agent_name: Solomons, Theodore
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57605
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Solomons
 description: Produced from the the September 7, 1927 issue of The Popular Magazine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74698#A-good-old-scout
 gutenberg_issued: '2024-11-07'
 gutenberg_type: Text
 identifiers:
